@@ -574,7 +574,7 @@ public final class Utils {
 
     /**
      * Create a string representation of a collection joined by the given separator
-     * @param collection The list of items
+     * @param collection The list of items.
      * @param separator The separator
      * @return The string representation.
      */
